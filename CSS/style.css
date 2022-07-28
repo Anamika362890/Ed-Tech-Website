@@ -13,10 +13,7 @@ body {
 
 .blue1 {
     background-color: #289BDE;
-
 }
-
-
 
 .navbar-brand {
     font-size: 30px;
@@ -24,8 +21,13 @@ body {
 
 .carousel-item img {
     height: 80vh;
+}
 
 
+
+.gray {
+    color: #777777;
+    ;
 }
 
 @media screen and (max-width: 557px) {
@@ -33,18 +35,16 @@ body {
         font-size: 20px;
     }
 
-
-
-
-
     .carousel-caption h4 {
         font-size: 20px;
         font-weight: 900;
         width: 100%;
-
     }
 
     .carousel-caption p {
         font-size: 10px;
+
     }
+
+
 }
