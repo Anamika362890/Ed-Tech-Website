@@ -10,3 +10,15 @@ body {
     border-color: #289BDE;
 
 }
+
+.blue1 {
+    background-color: #289BDE;
+
+}
+
+.carousel-item img {
+    height: 80vh;
+    object-fit: fill;
+
+
+}
