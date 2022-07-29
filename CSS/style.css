@@ -30,19 +30,23 @@ body {
     ;
 }
 
+
+
 @media screen and (max-width: 557px) {
     .navbar-brand {
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .carousel-caption h4 {
         font-size: 20px;
         font-weight: 900;
         width: 100%;
+
     }
 
     .carousel-caption p {
         font-size: 10px;
+
 
     }
 
